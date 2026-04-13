@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in District of Columbia that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in District of Columbia, US",
+  "export_job_id": "b9b79595-dba3-4152-a41b-f2a5dad89e26",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 584099,
+  "location_name": "District of Columbia",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-district-of-columbia-us-sample-584099",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/584099/beamstation_584099_food_and_drink-us-dc_SAMPLE_DIST.csv",
+  "sample_pct": 12.5,
+  "sample_records": 1,
+  "sample_sha256": "4bb90dd1289abb84b5fe175be53b84d77fa13830e2ccc87ffd05e91b2ab8c034",
+  "sample_size_bytes": 19501,
+  "total_records": 8,
+  "updated_at": "2026-04-07T15:49:37.837565+00:00"
+}
