@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b9b79595-dba3-4152-a41b-f2a5dad89e26",
+  "export_job_id": "ae963ad1-0a2c-49a9-b2d3-38d0fa9793c9",
   "id_short": 584099,
-  "published_at": "2026-04-13T19:35:41Z",
+  "published_at": "2026-04-18T19:26:29Z",
   "repo_name": "white-space-finder-in-district-of-columbia-us-sample-584099",
   "sample_asset_name": "beamstation_584099_food_and_drink-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/584099/beamstation_584099_food_and_drink-us-dc_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "4bb90dd1289abb84b5fe175be53b84d77fa13830e2ccc87ffd05e91b2ab8c034",
-  "sample_size_bytes": 19501,
+  "sample_sha256": "425bb6e68a3e7580670093e3ad29428645ceb5a9d06b7aa3b3ea277f68a91ecd",
+  "sample_size_bytes": 20081,
   "total_records": 8
 }
