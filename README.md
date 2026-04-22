@@ -9,9 +9,9 @@
 | Dataset ID | `584099` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 8 records |
-| Free sample size | 1 records (12.5%) |
-| Last export | 2026-04-14T22:12:24.422950+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-22T01:06:06.743259+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-district-of-columbia-us-sample-584099/releases/download/sample-latest/beamstation_584099_food_and_drink-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
